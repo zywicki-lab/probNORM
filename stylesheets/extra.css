@@ -1,0 +1,32 @@
+/* tip admonition color change */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: #7c4dff;
+}
+.md-typeset .tip > .admonition-title,
+.md-typeset .tip > summary {
+  background-color: rgba(124, 77, 255, 0.1);
+  border-color: #7c4dff;
+}
+.md-typeset .tip > .admonition-title::before,
+.md-typeset .tip > summary::before {
+  background-color: #7c4dff;
+}
+
+/* link color */
+.md-content {
+  --md-typeset-a-color: #7c4dff;
+}
+
+/* requirements table */
+td, th, table {
+  font-size:.7rem;
+ }
+
+ /* old admonition type */
+.md-typeset .admonition,
+.md-typeset details {
+  border-width: 0;
+  border-left-width: 4px;
+  font-size: .7rem;
+}
