@@ -1,0 +1,41 @@
+site_name: probNORM
+site_url: https://probNORM.com/
+
+plugins:
+  - search
+  - mkdocstrings
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+      permalink_title: Anchor link to this section for reference
+      toc_depth: 3
+      title: On this page
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
+    - content.tabs.link
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Quick Start: quick-start.md
+  - BAM input: bam-mode.md
+  - Counts input: count-mode.md
+  - Output: output.md
+  - Example dataset: example_dataset.md
+  - Contribute: contribution.md
+  - Licence: licence.md
+
+extra_css:
+  - stylesheets/extra.css

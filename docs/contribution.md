@@ -1,0 +1,1 @@
+If you notice any errors and mistakes, or would like to suggest some new features, please use Github's issue tracking system to report it at [probNORM](https://github.com/zywicki-lab/probNORM). You are also welcome to send a pull request with your corrections and suggestions.
