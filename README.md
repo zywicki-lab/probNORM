@@ -1,6 +1,12 @@
 # Welcome to probNORM
 
-A new structural probing signal calculation method that eliminates read distribution bias and prevents reactivity underestimation. It is based on the analysis of background RT stops in treated and control samples of a single replicate and enables statistical discrimination of the probing-sensitive nucleotides. The reactivities obtained by probNORM are highly consistent with the structural models allowing the separation of single- and double-stranded nucleotides.
+A new method for structural probing signal calculation that eliminates read distribution bias and prevents reactivity underestimation. It is based on the analysis of background RT stops in treated and control samples of a single replicate and enables statistical discrimination of the probing-sensitive nucleotides. The reactivities obtained by probNORM are highly consistent with the structural models allowing the separation of single- and double-stranded nucleotides.
+
+## The detailed documentation is provided at https://zywicki-lab.github.io/probNORM/
+
+[coment]: < ## probNORM is also available as WebServer at https://probnorm/combio.pl>
+
+<br>
 
 ## The overview of probNORM method
 
