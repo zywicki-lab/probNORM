@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/570162314.svg)](https://zenodo.org/badge/latestdoi/570162314)]
+[![DOI](https://zenodo.org/badge/570162314.svg)](https://zenodo.org/badge/latestdoi/570162314)
 
 # Welcome to probNORM
 
